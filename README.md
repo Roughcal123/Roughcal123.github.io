@@ -1,30 +1,26 @@
-# 👹 Demon Hosting
+# DemonHosting Admin Panel
 
-A powerful and modern hosting panel built for gamers, developers, and communities. Featuring an advanced Admin Panel, real-time server management, and full API support.
+Welcome to the **DemonHosting Admin Panel** — a powerful web interface to monitor and manage your game or web servers with ease. Designed with administrators in mind, it provides real-time server insights, user management, and customizable tools to fit your hosting needs.
 
-![License](https://img.shields.io/github/license/yourusername/demon-hosting)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Made with Node.js](https://img.shields.io/badge/Made%20with-Node.js-green?logo=node.js)
+## 🌐 Live Panel
 
----
+🔗 **Access it here:** [panel.demonhosting.xyz](https://panel.demonhosting.xyz)
 
-## 🧠 Features
-
-- ⚙️ Full-featured Admin Panel
-- 🖥️ Server and user management dashboard
-- 📦 Docker container support
-- 🔐 Role-based access control
-- 🎮 Game server integration (FiveM, Minecraft, etc.)
-- 🧪 Modular plugin system
-- 📊 Real-time stats and logging
-- 🌐 REST API for remote control
+> Default Admin Login  
+> **Username:** `admin`  
+> **Password:** `admin`
 
 ---
 
-## 🚀 Getting Started
+## 📋 Features
 
-### 📥 Head over and check out our websites!
+### 🔐 Login System
+Secure login with default credentials provided for first-time access. Passwords can be changed after initial login.
 
-```bash
-https://www.demonhosting.xyz
-https://panel.demonhosting.xyz
+### 🧭 Dashboard
+Get a quick glance at:
+- Total servers online/offline
+- Current active users
+- Resource usage (CPU, RAM, Disk)
+- Quick action buttons (Restart All, Shutdown All)
+
