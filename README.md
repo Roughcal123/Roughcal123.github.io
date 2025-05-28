@@ -23,7 +23,7 @@ A powerful and modern hosting panel built for gamers, developers, and communitie
 
 ## 🚀 Getting Started
 
-### 📥 Clone the repository
+### 📥 Head over and check out our websites!
 
 ```bash
 https://www.demonhosting.xyz
