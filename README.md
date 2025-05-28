@@ -26,5 +26,5 @@ A powerful and modern hosting panel built for gamers, developers, and communitie
 ### 📥 Clone the repository
 
 ```bash
-git clone https://github.com/Roughcal123/Roughcal123.github.io
-cd demon-hosting
+https://www.demonhosting.xyz
+https://panel.demonhosting.xyz
